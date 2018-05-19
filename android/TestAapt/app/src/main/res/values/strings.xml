@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="html1"><h1>big</h1></string>
+    <string name="html2"><![CDATA[<p>Text<p>]]></string>
+</resources>
